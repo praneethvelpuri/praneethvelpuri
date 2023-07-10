@@ -8,6 +8,15 @@ I am interested in working as a data analyst and as a  web developer. My hobbies
 
 <b>Here are some of my projects:</b> 
 
-A web application that uses machine learning to predict the risk of <b> Parkinson's disease </b>
+<b> A web application that uses machine learning to predict the risk of Parkinson's disease.<b> 
 
-A web application that uses Convolutional Neural Networks that Predicts the <b> Plant Disease Detection <b> .
+A web application that uses Convolutional Neural Networks that Predicts the Plant Disease Detection.<b>
+
+KPMG-Data Analytics Consulting Virtual Internship <b>
+
+Data Analytics virtual Internship at Quantium.<b>
+
+Internet Of Things (IOT) Internship At BHARAT INTERN. <b>
+
+
+
