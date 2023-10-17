@@ -1,6 +1,3 @@
-<img align="top" alt="Coding" width="1200" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM">
-<br></br>
-
 <h1 align="center">Hi 👋, I'm PRANEETH VELPURI</h1>
 <h3 align="center">I am passionate and motivated data enthusiast with an extensive knowledge in the fields of data science, AI, and machine learning. My enthusiasm in these areas has grown as a result of deep immersion in fundamental concepts and their dynamic implementation across numerous projects. As a motivated individual, I am committed to developing and implementing algorithms that address real-world issues in the sector.</h3>
 <img align="middle" alt="Coding" width="1000" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
